@@ -130,12 +130,6 @@ Perfect for:
 
 ---
 
-## License
-
-MIT License
-
----
-
 ## Acknowledgments
 
 - [LangChain](https://github.com/hwchase17/langchain)
