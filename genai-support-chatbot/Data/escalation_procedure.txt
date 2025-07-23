@@ -1,0 +1,7 @@
+Escalation Procedure for Delayed or Lost Parts
+
+1. Log issue in the Spares Issue Tracker within 1 hour of identifying delay.
+2. Attach relevant shipment ID and logs.
+3. Notify Operations Lead via Teams and email with subject line "Spares Delay - URGENT".
+4. If no response within 4 hours, escalate to Global Logistics Manager.
+5. Use template Escalation Form 217-A for all escalations.

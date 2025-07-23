@@ -1,0 +1,7 @@
+Delivery Policy - Spare Parts Supply Chain
+
+1. Standard delivery time for North America is 48 hours.
+2. For Europe and Asia-Pacific, delivery SLA is 72 hours.
+3. If delays exceed SLA, escalate to Regional Ops Manager using Escalation Form 217-A.
+4. Weather-related delays are exempt from penalties unless SLA exceeds by more than 24 hours.
+5. Emergency shipments can be requested for Tier-1 datacenters with approval.
