@@ -1,0 +1,7 @@
+Standard Operating Procedure - Requesting Spare Parts
+
+1. Requests must be submitted through the Spares Portal.
+2. Include part number, datacenter location, priority, and justification.
+3. All Tier-1 datacenter requests are auto-approved.
+4. Tier-2 and Tier-3 requests need Ops Manager review.
+5. Confirmation emails will be sent within 2 hours of submission.
