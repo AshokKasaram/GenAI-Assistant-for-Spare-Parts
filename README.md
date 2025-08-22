@@ -1,4 +1,3 @@
-
 # GenAI Support Assistant for Spare Parts
 
 A lightweight **GenAI chatbot** using **RAG (Retrieval-Augmented Generation)** and an open-source **LLM (Flan-T5)** to answer internal SOP questions. Fully offline and built using free, open-source components — no API keys or cloud needed.
